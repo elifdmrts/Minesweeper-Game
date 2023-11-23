@@ -11,4 +11,4 @@
 - Kullanıcının girdiği noktada mayın var ise oyunu kaybeder.
 - Mayın yok ise, ilgili noktaya değen tüm konumlarına bakılır (sağı, solu, yukarısı, aşağısı) ve etrafındaki mayınların sayısının toplamı ilgili noktaya yazılır.
 - Noktaya değen herhangi bir mayın yok ise "0" değeri atanır.
-- Kullanıcı hiç bir mayına basmadan tüm noktaları seçebilirse oyunu kazanır.
+- Kullanıcı hiç mayına basmadan tüm noktaları seçebilirse oyunu kazanır.
